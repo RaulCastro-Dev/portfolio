@@ -27,3 +27,26 @@ Este proyecto está construido inicialmente con tecnologías web nativas, priori
 * **Interactividad:** JavaScript (Vanilla).
 * **Control de versiones:** Git & GitHub.
 
+---
+
+## 📁 Estructura
+
+```
+portfolio/
+├── index.html   # Contenido y estructura de la página
+├── style.css    # Estilos (tema oscuro, diseño de dos columnas, responsive)
+└── script.js    # Año del pie, foco de luz y resaltado del menú al hacer scroll
+```
+
+## ▶️ Ver en local
+
+Es una web estática: basta con abrir `index.html` en el navegador, o servirla con cualquier servidor estático, por ejemplo:
+
+```bash
+python -m http.server 5173
+```
+
+## 🤖 Uso de IA
+
+Este proyecto se ha desarrollado con asistencia de IA (Claude Code). El diseño de referencia, las decisiones de contenido y la revisión del código son propios.
+
